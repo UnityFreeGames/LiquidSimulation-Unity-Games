@@ -1,6 +1,6 @@
 # LiquidSimulation-Unity-Games
 <br />
-Video tutorial part :https://youtu.be/QRADixKqpDU<br />
+Video tutorial :https://youtu.be/QRADixKqpDU<br />
 
 Group :https://t.me/Unity_Free_Source<br /><br />
 🎨Game Artist : https://t.me/maria_artgallery<br />
